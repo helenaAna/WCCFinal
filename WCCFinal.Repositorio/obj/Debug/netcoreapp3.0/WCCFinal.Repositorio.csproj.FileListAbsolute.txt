@@ -1,0 +1,11 @@
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.AssemblyInfo.cs
+C:\Users\woman\Desktop\WCCFinal.Repositorio\bin\Debug\netcoreapp3.0\WCCFinal.Repositorio.deps.json
+C:\Users\woman\Desktop\WCCFinal.Repositorio\bin\Debug\netcoreapp3.0\WCCFinal.Repositorio.dll
+C:\Users\woman\Desktop\WCCFinal.Repositorio\bin\Debug\netcoreapp3.0\WCCFinal.Repositorio.pdb
+C:\Users\woman\Desktop\WCCFinal.Repositorio\bin\Debug\netcoreapp3.0\WCCFinal.Dominio.dll
+C:\Users\woman\Desktop\WCCFinal.Repositorio\bin\Debug\netcoreapp3.0\WCCFinal.Dominio.pdb
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.csproj.CopyComplete
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.dll
+C:\Users\woman\Desktop\WCCFinal.Repositorio\obj\Debug\netcoreapp3.0\WCCFinal.Repositorio.pdb

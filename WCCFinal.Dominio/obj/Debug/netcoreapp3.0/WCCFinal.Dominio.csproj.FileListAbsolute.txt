@@ -1,0 +1,8 @@
+C:\Users\woman\Desktop\WCCFinal.Dominio\bin\Debug\netcoreapp3.0\WCCFinal.Dominio.deps.json
+C:\Users\woman\Desktop\WCCFinal.Dominio\bin\Debug\netcoreapp3.0\WCCFinal.Dominio.dll
+C:\Users\woman\Desktop\WCCFinal.Dominio\bin\Debug\netcoreapp3.0\WCCFinal.Dominio.pdb
+C:\Users\woman\Desktop\WCCFinal.Dominio\obj\Debug\netcoreapp3.0\WCCFinal.Dominio.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\WCCFinal.Dominio\obj\Debug\netcoreapp3.0\WCCFinal.Dominio.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\WCCFinal.Dominio\obj\Debug\netcoreapp3.0\WCCFinal.Dominio.AssemblyInfo.cs
+C:\Users\woman\Desktop\WCCFinal.Dominio\obj\Debug\netcoreapp3.0\WCCFinal.Dominio.dll
+C:\Users\woman\Desktop\WCCFinal.Dominio\obj\Debug\netcoreapp3.0\WCCFinal.Dominio.pdb
